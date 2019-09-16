@@ -1,7 +1,7 @@
 # BlueVery_by.Angelinux
 This is bluetooth keyboard driver for linux
 
-This driver was made in http://223.194.70.113:11322/(This is gitea server).
+This driver was made in http://223.194.70.113:11322/  (This is gitea server).
 
 This driver was made by Angelinux.
 
